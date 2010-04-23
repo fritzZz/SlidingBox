@@ -10,7 +10,6 @@ license:
  
 requires:
 core/1.2.4: '*'
-Rounded/0.9 '*'
  
 provides:
 - SlidingBox
